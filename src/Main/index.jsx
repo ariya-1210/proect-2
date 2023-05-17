@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const Root = () => {
+export const Main = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ export const Root = () => {
   )
 }
 
-export default Root
+export default Main
