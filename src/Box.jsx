@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const Main = () => {
+export const Box = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ export const Main = () => {
   )
 }
 
-export default Main
+export default Box
